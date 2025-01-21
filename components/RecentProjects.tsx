@@ -27,21 +27,10 @@ const RecentProjects = () => {
                   className="relative w-full h-full overflow-hidden lg:rounded-3xl"
                   style={{ backgroundColor: "#13162D" }}
                 >
-                  <img
-                    src={`${
-                      process.env.NODE_ENV === "production"
-                        ? "/xeex.github.io"
-                        : ""
-                    }/bg.png`}
-                    alt="bgimg"
-                  />
+                  <img src={"/bg.png"} alt="bgimg" />
                 </div>
                 <img
-                  src={`${
-                    process.env.NODE_ENV === "production"
-                      ? "/xeex.github.io"
-                      : ""
-                  }${item.img}`}
+                  src={item.img}
                   alt="cover"
                   className="z-10 absolute bottom-0 rounded-2xl"
                 />

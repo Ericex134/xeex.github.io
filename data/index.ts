@@ -12,7 +12,7 @@ export const gridItems = [
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
-    img: "/b1.svg",
+    img: "/svg/b1.svg",
     spareImg: "",
   },
   {
@@ -42,8 +42,8 @@ export const gridItems = [
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
     titleClassName: "justify-start",
-    img: "/grid.svg",
-    spareImg: "/b4.svg",
+    img: "/svg/grid.svg",
+    spareImg: "/svg/b4.svg",
   },
 
   {
@@ -54,7 +54,7 @@ export const gridItems = [
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60 rounded-2xl",
     titleClassName: "justify-center md:justify-start lg:justify-center",
     img: "/IMG_0869.jpg",
-    spareImg: "/grid.svg",
+    spareImg: "/svg/grid.svg",
   },
   {
     id: 6,
@@ -79,17 +79,9 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: [],
-    link: "/ui.yoom.com",
-  },
-  {
-    id: 3,
     title: "Pump - Social Media Workout App",
     des: "A social media platform for fitness enthusiasts to share workouts and motivate each other",
-    img: "/pumppic.png",
+    img: "/pump.png",
     iconLists: [],
     link: "",
   },
@@ -108,35 +100,35 @@ export const workExperience = [
     title: "Freelance Web Developer",
     desc: "Developed and maintained modern websites for smalll businesses such as local restaurants and tutoring centers",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
+    thumbnail: "/svg/exp2.svg",
   },
   {
     id: 3,
     title: "Coding Instructor",
     desc: "Taught students aged 10-18 how to code and build their own websites",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
+    thumbnail: "/svg/exp3.svg",
   },
   {
     id: 4,
     title: "Mobile App Startup",
     desc: "Created a mobile app allowing users to track their workouts and progress in a social media format",
     className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
+    thumbnail: "/svg/exp4.svg",
   },
 ];
 
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
+    img: "/svg/git.svg",
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "/svg/twit.svg",
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: "/svg/link.svg",
   },
 ];
