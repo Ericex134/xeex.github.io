@@ -53,8 +53,8 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            I'm Eric, a developer passionate about using technology to solve
-            problems and create solutions
+            I&apos;m Eric Xu, a developer passionate about using technology to
+            solve problems and create solutions
           </p>
 
           <a href="#about">
