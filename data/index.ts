@@ -83,7 +83,7 @@ export const projects = [
     des: "A social media platform for fitness enthusiasts to share workouts and motivate each other",
     img: "/xeex.github.io/pump.png",
     iconLists: [],
-    link: "",
+    link: "https://ericex134.github.io/pumpsite/",
   },
 ];
 
