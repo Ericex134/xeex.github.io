@@ -42,7 +42,7 @@ export const gridItems = [
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
     titleClassName: "justify-start",
-    img: "/svg/grid.svg",
+    img: "/xeex.github.io/svg/grid.svg",
     spareImg: "/svg/b4.svg",
   },
 
@@ -53,7 +53,7 @@ export const gridItems = [
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60 rounded-2xl",
     titleClassName: "justify-center md:justify-start lg:justify-center",
-    img: "/IMG_0869.jpg",
+    img: "/xeex.github.io/IMG_0869.jpg",
     spareImg: "/svg/grid.svg",
   },
   {
@@ -73,7 +73,7 @@ export const projects = [
     id: 1,
     title: "Japanese Restaurant Website",
     des: "A website for a local Japanese restaurant, showcasing their menu and offering online ordering",
-    img: "/watashi.png",
+    img: "/xeex.github.io/watashi.png",
     iconLists: [],
     link: "https://watashisushi.webflow.io/",
   },
@@ -81,7 +81,7 @@ export const projects = [
     id: 2,
     title: "Pump - Social Media Workout App",
     des: "A social media platform for fitness enthusiasts to share workouts and motivate each other",
-    img: "/pump.png",
+    img: "/xeex.github.io/pump.png",
     iconLists: [],
     link: "",
   },
@@ -93,42 +93,42 @@ export const workExperience = [
     title: "UBC Computer Science",
     desc: "Maintained a 4.0 GPA studying computer science at UBC",
     className: "md:col-span-2",
-    thumbnail: "/ubc.png",
+    thumbnail: "/xeex.github.io/ubc.png",
   },
   {
     id: 2,
     title: "Freelance Web Developer",
     desc: "Developed and maintained modern websites for smalll businesses such as local restaurants and tutoring centers",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/svg/exp2.svg",
+    thumbnail: "/xeex.github.io/svg/exp2.svg",
   },
   {
     id: 3,
     title: "Coding Instructor",
     desc: "Taught students aged 10-18 how to code and build their own websites",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/svg/exp3.svg",
+    thumbnail: "/xeex.github.io/svg/exp3.svg",
   },
   {
     id: 4,
     title: "Mobile App Startup",
     desc: "Created a mobile app allowing users to track their workouts and progress in a social media format",
     className: "md:col-span-2",
-    thumbnail: "/svg/exp4.svg",
+    thumbnail: "/xeex.github.io/svg/exp4.svg",
   },
 ];
 
 export const socialMedia = [
   {
     id: 1,
-    img: "/svg/git.svg",
+    img: "/xeex.github.io/svg/git.svg",
   },
   {
     id: 2,
-    img: "/svg/twit.svg",
+    img: "/xeex.github.io/svg/twit.svg",
   },
   {
     id: 3,
-    img: "/svg/link.svg",
+    img: "/xeex.github.io/svg/link.svg",
   },
 ];

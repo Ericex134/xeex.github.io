@@ -2,7 +2,6 @@
 const nextConfig = {
   output: "export",
   basePath: "/xeex.github.io",
-  assetPrefix: "/xeex.github.io/",
   reactStrictMode: true,
   eslint: {
     ignoreDuringBuilds: true,
