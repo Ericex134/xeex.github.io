@@ -71,11 +71,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Japanese Restaurant Website",
-    des: "A website for a local Japanese restaurant, showcasing their menu and offering online ordering",
-    img: "/xeex.github.io/watashi.png",
+    title: "Retextify",
+    des: "A website for a local marketing agency selling a software tool to help businesses with their customer turnover",
+    img: "/xeex.github.io/retextify.png",
     iconLists: [],
-    link: "https://watashisushi.webflow.io/",
+    link: "https://ericex134.github.io/retextify/",
   },
   {
     id: 2,
