@@ -85,6 +85,14 @@ export const projects = [
     iconLists: [],
     link: "https://ericex134.github.io/pumpsite/",
   },
+  {
+    id: 3,
+    title: "Perfect Pace",
+    des: "An ecommerce website selling running programs",
+    img: "/xeex.github.io/perfectpace.png",
+    iconLists: [],
+    link: "https://perfectracepace.myshopify.com/",
+  },
 ];
 
 export const workExperience = [
